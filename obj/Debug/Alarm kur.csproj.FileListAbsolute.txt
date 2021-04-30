@@ -1,0 +1,29 @@
+D:\VB\Alarm kur\bin\Debug\Alarm kur.exe.config
+D:\VB\Alarm kur\bin\Debug\Alarm kur.exe
+D:\VB\Alarm kur\bin\Debug\Alarm kur.pdb
+D:\VB\Alarm kur\obj\Debug\Alarm kur.csprojAssemblyReference.cache
+D:\VB\Alarm kur\obj\Debug\Alarm_kur.Form1.resources
+D:\VB\Alarm kur\obj\Debug\Alarm_kur.Properties.Resources.resources
+D:\VB\Alarm kur\obj\Debug\Alarm kur.csproj.GenerateResource.cache
+D:\VB\Alarm kur\obj\Debug\Alarm kur.exe
+D:\VB\Alarm kur\obj\Debug\Alarm kur.pdb
+D:\VB\Alarm kur\bin\Debug\Interop.WMPLib.dll
+D:\VB\Alarm kur\bin\Debug\AxInterop.WMPLib.dll
+D:\VB\Alarm kur\obj\Debug\Interop.WMPLib.dll
+D:\VB\Alarm kur\obj\Debug\AxInterop.WMPLib.dll
+D:\VB\Alarm kur\obj\Debug\Alarm kur.csproj.ResolveComReference.cache
+D:\VB\Zamanlı Alarm Kur\bin\Debug\Alarm kur.exe.config
+D:\VB\Zamanlı Alarm Kur\bin\Debug\Alarm kur.exe
+D:\VB\Zamanlı Alarm Kur\bin\Debug\Alarm kur.pdb
+D:\VB\Zamanlı Alarm Kur\bin\Debug\Interop.WMPLib.dll
+D:\VB\Zamanlı Alarm Kur\bin\Debug\AxInterop.WMPLib.dll
+D:\VB\Zamanlı Alarm Kur\obj\Debug\Alarm kur.csprojAssemblyReference.cache
+D:\VB\Zamanlı Alarm Kur\obj\Debug\Interop.WMPLib.dll
+D:\VB\Zamanlı Alarm Kur\obj\Debug\AxInterop.WMPLib.dll
+D:\VB\Zamanlı Alarm Kur\obj\Debug\Alarm kur.csproj.ResolveComReference.cache
+D:\VB\Zamanlı Alarm Kur\obj\Debug\Alarm_kur.Form1.resources
+D:\VB\Zamanlı Alarm Kur\obj\Debug\Alarm_kur.Properties.Resources.resources
+D:\VB\Zamanlı Alarm Kur\obj\Debug\Alarm kur.csproj.GenerateResource.cache
+D:\VB\Zamanlı Alarm Kur\obj\Debug\Alarm kur.exe
+D:\VB\Zamanlı Alarm Kur\obj\Debug\Alarm kur.pdb
+D:\VB\Zamanlı Alarm Kur\obj\Debug\Alarm kur.csproj.CoreCompileInputs.cache
